@@ -1,0 +1,86 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void CambioEscena_Update_mF78D5D43ACD6E448D95D18300FF3A07DB8B71C77 (void);
+extern void CambioEscena__ctor_m0CDE8135BDE75AD5AF0C79B6B9C97736635DF77A (void);
+extern void CargarNombre_Start_m9521A35CB1797C63FE1573042369753EB3E0CD4A (void);
+extern void CargarNombre_Update_m903ECFB1A3943F2ED73BD6FA88E9BA7BA5631A97 (void);
+extern void CargarNombre__ctor_mBC35AB7AD1A58CB7471BF32A1628A06368879388 (void);
+extern void SoundLoop_Awake_m2937CC5B4B670AFA1FD65D317196A7766A975984 (void);
+extern void SoundLoop__ctor_m57D9AB8C433612AAB0C03177A698A6E2F6946001 (void);
+extern void Timer_Update_m3AC30EFD54E8E1010F6E601AE179212E71E6B2CD (void);
+extern void Timer__ctor_m5FF13F1DAD0527F97E229A1904A8AD662731C4B5 (void);
+extern void Tomarnombre_Awake_mA2BE28408897338AC46AE488E90E566F97C03D25 (void);
+extern void Tomarnombre_Update_mD9B52031ECEB776231F5D48782F14FDEC32934E3 (void);
+extern void Tomarnombre_aceptar_mDE1C8E6C9795CA3550C3D14471E2E70235EC369D (void);
+extern void Tomarnombre__ctor_m10D9A9B3AA039F90D8DCD06B64A48C14172F248D (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[15] = 
+{
+	CambioEscena_Update_mF78D5D43ACD6E448D95D18300FF3A07DB8B71C77,
+	CambioEscena__ctor_m0CDE8135BDE75AD5AF0C79B6B9C97736635DF77A,
+	CargarNombre_Start_m9521A35CB1797C63FE1573042369753EB3E0CD4A,
+	CargarNombre_Update_m903ECFB1A3943F2ED73BD6FA88E9BA7BA5631A97,
+	CargarNombre__ctor_mBC35AB7AD1A58CB7471BF32A1628A06368879388,
+	SoundLoop_Awake_m2937CC5B4B670AFA1FD65D317196A7766A975984,
+	SoundLoop__ctor_m57D9AB8C433612AAB0C03177A698A6E2F6946001,
+	Timer_Update_m3AC30EFD54E8E1010F6E601AE179212E71E6B2CD,
+	Timer__ctor_m5FF13F1DAD0527F97E229A1904A8AD662731C4B5,
+	Tomarnombre_Awake_mA2BE28408897338AC46AE488E90E566F97C03D25,
+	Tomarnombre_Update_mD9B52031ECEB776231F5D48782F14FDEC32934E3,
+	Tomarnombre_aceptar_mDE1C8E6C9795CA3550C3D14471E2E70235EC369D,
+	Tomarnombre__ctor_m10D9A9B3AA039F90D8DCD06B64A48C14172F248D,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[15] = 
+{
+	4618,
+	4618,
+	4618,
+	4618,
+	4618,
+	4618,
+	4618,
+	4618,
+	4618,
+	4618,
+	4618,
+	4618,
+	4618,
+	6829,
+	4618,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	15,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
